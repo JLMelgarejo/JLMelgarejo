@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JLMelgarejo
+- 👀 I’m interested in programming and cloud technologies
+- 🌱 I’m currently learning to manage databases and use aws
+- 💞️ I’m looking to collaborate on projects that will help me practice my programming skills. 
+- 📫 You can contact me through my e-mail melgarejojorge57@gmail.com
